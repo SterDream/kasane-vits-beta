@@ -1,1 +1,0 @@
-from .Korean_to_IPA import G2P_Korean_to_Phoneme
